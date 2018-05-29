@@ -1,4 +1,5 @@
-/* objective is to output a random coi flip of 10 coins
+/*
+objective is to output a random coi flip of 10 coins
 */
 
 var heads = 0;
