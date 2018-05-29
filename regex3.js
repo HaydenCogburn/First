@@ -1,4 +1,5 @@
-/* objective is to count the number of vowels
+/*
+objective is to count the number of vowels
 in a string without using any if statements or for loops
 */
 
