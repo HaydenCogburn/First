@@ -9,5 +9,5 @@ function zipCode(str) {
     return output;
 }
 
-console.log(zipCode(12345)); // -----> true
-console.log(zipCode(1234abcd)); // -----> false
+console.log(zipCode("12345")); // -----> true
+console.log(zipCode("1234abcd")); // -----> false
